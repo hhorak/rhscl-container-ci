@@ -6,7 +6,13 @@ Container Image based on Red Hat Software Collections.
 
 ## Images status
 
-   - mariadb CentOS image ![status](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.svg) ![status][https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.svg]  ![status](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.png) ![status][https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.png] 
+   - mariadb CentOS image 
+![status](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.svg)
+![status][https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.svg]
+![status](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.png)
+![status][https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build&badge.png] 
+![status](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build)
+![status][https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/buildStatus/icon?job=rhscl-images-mariadb-rh-build] 
 
 [Rebuild the mariadb CentOS image](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/view/RHSCL%20Images%20Upstream/job/rhscl-images-mariadb-rh-build/lastCompletedBuild/rebuild/parameterized)
    - postgresql CentOS image \![status](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/view/RHSCL%20Images%20Upstream/job/rhscl-images-postgresql-rh-build/badge/icon) [Rebuild the postgresql CentOS image](https://coreservices-jenkins.rhev-ci-vms.eng.rdu2.redhat.com/view/RHSCL%20Images%20Upstream/job/rhscl-images-postgresql-rh-build/lastCompletedBuild/rebuild/parameterized)
